@@ -44,6 +44,6 @@ Install dependencies
  ```
 ---
 ### Demo
-![Detection Demo](results/demo.png)
+![Detection Demo](image.png)
 
 
