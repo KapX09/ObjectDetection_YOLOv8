@@ -36,6 +36,8 @@ Detected objects are then drawn on the frame using OpenCV.
 Clone the repository
 ```
 git clone https://github.com/KapX09/ObjectDetection_YOLOv8.git
+```
+```
 cd ObjectDetection_YOLOv8
 ```
 Install dependencies
